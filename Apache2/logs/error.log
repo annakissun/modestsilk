@@ -1,5 +1,11 @@
-[Wed Feb 15 15:46:24.390832 2023] [mpm_winnt:notice] [pid 2984:tid 504] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Wed Feb 15 15:46:24.390832 2023] [mpm_winnt:notice] [pid 2984:tid 504] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Wed Feb 15 15:46:24.391831 2023] [core:notice] [pid 2984:tid 504] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
-[Wed Feb 15 15:46:24.410819 2023] [mpm_winnt:notice] [pid 2984:tid 504] AH00418: Parent: Created child process 11124
-[Wed Feb 15 15:46:26.162742 2023] [mpm_winnt:notice] [pid 11124:tid 504] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 13:57:22.410860 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 13:57:22.410860 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 13:57:22.410860 2023] [core:notice] [pid 10008:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 13:57:22.417856 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00418: Parent: Created child process 10076
+[Thu Feb 16 13:57:23.499288 2023] [mpm_winnt:notice] [pid 10076:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 13:57:51.070296 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00428: Parent: child process 10076 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 13:57:51.141254 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 13:57:51.141254 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 13:57:51.141254 2023] [core:notice] [pid 10008:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 13:57:51.146250 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00418: Parent: Created child process 5640
+[Thu Feb 16 13:57:52.517417 2023] [mpm_winnt:notice] [pid 5640:tid 488] AH00354: Child: Starting 64 worker threads.
