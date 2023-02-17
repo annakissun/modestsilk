@@ -1,5 +1,11 @@
+<?php
+include ("db_conn.php");
+?>
 <html>
-<head></head>
+<head>
+<title>Modest Silk</title>
+<link rel="stylesheet" href="style.css"/>
+</head>
 <body>
 <?php
 include ("header.php");

@@ -1,11 +1,582 @@
-[Thu Feb 16 13:57:22.410860 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Thu Feb 16 13:57:22.410860 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Thu Feb 16 13:57:22.410860 2023] [core:notice] [pid 10008:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
-[Thu Feb 16 13:57:22.417856 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00418: Parent: Created child process 10076
-[Thu Feb 16 13:57:23.499288 2023] [mpm_winnt:notice] [pid 10076:tid 496] AH00354: Child: Starting 64 worker threads.
-[Thu Feb 16 13:57:51.070296 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00428: Parent: child process 10076 exited with status 3221226356 -- Restarting.
-[Thu Feb 16 13:57:51.141254 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Thu Feb 16 13:57:51.141254 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Thu Feb 16 13:57:51.141254 2023] [core:notice] [pid 10008:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
-[Thu Feb 16 13:57:51.146250 2023] [mpm_winnt:notice] [pid 10008:tid 472] AH00418: Parent: Created child process 5640
-[Thu Feb 16 13:57:52.517417 2023] [mpm_winnt:notice] [pid 5640:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:02:16.915412 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:02:16.915412 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:02:16.915412 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:02:16.920407 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 4760
+[Thu Feb 16 17:02:18.034971 2023] [mpm_winnt:notice] [pid 4760:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:02:47.987067 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 4760 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:02:48.040849 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:02:48.040849 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:02:48.040849 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:02:48.044847 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11200
+[Thu Feb 16 17:02:49.044691 2023] [mpm_winnt:notice] [pid 11200:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:02:51.804375 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11200 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:02:51.871332 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:02:51.871332 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:02:51.871332 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:02:51.876330 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11280
+[Thu Feb 16 17:02:52.853608 2023] [mpm_winnt:notice] [pid 11280:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:03:45.910637 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11280 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:03:45.959395 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:03:45.959395 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:03:45.959395 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:03:45.963393 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11860
+[Thu Feb 16 17:03:47.080804 2023] [mpm_winnt:notice] [pid 11860:tid 504] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:04:14.640589 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11860 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:04:14.700552 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:04:14.700552 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:04:14.700552 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:04:14.705549 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 6048
+[Thu Feb 16 17:04:15.776780 2023] [mpm_winnt:notice] [pid 6048:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:04:19.618171 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 6048 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:04:19.684135 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:04:19.684135 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:04:19.684135 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:04:19.691127 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11816
+[Thu Feb 16 17:04:21.291689 2023] [mpm_winnt:notice] [pid 11816:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:04:55.113221 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11816 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:04:55.192547 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:04:55.192547 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:04:55.192547 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:04:55.199541 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10424
+[Thu Feb 16 17:04:56.342840 2023] [mpm_winnt:notice] [pid 10424:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:05:19.788541 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10424 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:05:19.852612 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:05:19.852612 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:05:19.852612 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:05:19.857610 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 12004
+[Thu Feb 16 17:05:20.816934 2023] [mpm_winnt:notice] [pid 12004:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:05:26.052939 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 12004 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:05:26.115900 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:05:26.115900 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:05:26.115900 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:05:26.119897 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 12196
+[Thu Feb 16 17:05:27.237213 2023] [mpm_winnt:notice] [pid 12196:tid 504] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:06:32.338932 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 12196 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:06:32.388900 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:06:32.388900 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:06:32.388900 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:06:32.393899 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2452
+[Thu Feb 16 17:06:33.495817 2023] [mpm_winnt:notice] [pid 2452:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:06:59.995863 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2452 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:07:00.068818 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:07:00.068818 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:07:00.068818 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:07:00.074815 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10624
+[Thu Feb 16 17:07:01.331035 2023] [mpm_winnt:notice] [pid 10624:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:07:40.737190 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10624 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:07:40.786160 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:07:40.787159 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:07:40.787159 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:07:40.791157 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 4800
+[Thu Feb 16 17:07:42.045413 2023] [mpm_winnt:notice] [pid 4800:tid 524] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:08:15.465877 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 4800 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:08:15.543149 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:08:15.543149 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:08:15.543149 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:08:15.548145 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 7728
+[Thu Feb 16 17:08:16.888722 2023] [mpm_winnt:notice] [pid 7728:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:11:30.140738 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 7728 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:11:30.197706 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:11:30.197706 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:11:30.197706 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:11:30.202701 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 12248
+[Thu Feb 16 17:11:31.194102 2023] [mpm_winnt:notice] [pid 12248:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:11:33.837304 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 12248 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:11:33.899268 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:11:33.899268 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:11:33.899268 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:11:33.903266 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9260
+[Thu Feb 16 17:11:34.994439 2023] [mpm_winnt:notice] [pid 9260:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:11:48.288378 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9260 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:11:48.339166 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:11:48.339166 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:11:48.339166 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:11:48.344164 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 3840
+[Thu Feb 16 17:11:49.335547 2023] [mpm_winnt:notice] [pid 3840:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:12:11.755638 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 3840 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:12:11.808604 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:12:11.808604 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:12:11.808604 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:12:11.812600 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8572
+[Thu Feb 16 17:12:13.073549 2023] [mpm_winnt:notice] [pid 8572:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:12:21.938220 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8572 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:12:21.988513 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:12:21.988513 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:12:21.988513 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:12:21.993511 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11016
+[Thu Feb 16 17:12:23.165697 2023] [mpm_winnt:notice] [pid 11016:tid 508] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:13:08.649560 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11016 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:13:08.704530 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:13:08.704530 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:13:08.705527 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:13:08.710523 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2312
+[Thu Feb 16 17:13:09.787854 2023] [mpm_winnt:notice] [pid 2312:tid 252] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:13:31.913628 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2312 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:13:31.973591 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:13:31.973591 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:13:31.973591 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:13:31.978586 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8780
+[Thu Feb 16 17:13:33.111527 2023] [mpm_winnt:notice] [pid 8780:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:14:13.218683 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8780 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:14:13.289641 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:14:13.289641 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:14:13.289641 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:14:13.293637 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9820
+[Thu Feb 16 17:14:14.416227 2023] [mpm_winnt:notice] [pid 9820:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:15:25.077558 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9820 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:15:25.150514 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:15:25.150514 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:15:25.150514 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:15:25.156510 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 5680
+[Thu Feb 16 17:15:26.144537 2023] [mpm_winnt:notice] [pid 5680:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:16:17.167740 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 5680 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:16:17.232703 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:16:17.232703 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:16:17.232703 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:16:17.237700 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 3244
+[Thu Feb 16 17:16:18.212093 2023] [mpm_winnt:notice] [pid 3244:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:16:26.427221 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 3244 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:16:26.480188 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:16:26.480188 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:16:26.480188 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:16:26.485183 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 524
+[Thu Feb 16 17:16:27.531776 2023] [mpm_winnt:notice] [pid 524:tid 508] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:16:30.043742 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 524 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:16:30.105704 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:16:30.106704 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:16:30.106704 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:16:30.113699 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10196
+[Thu Feb 16 17:16:31.220025 2023] [mpm_winnt:notice] [pid 10196:tid 516] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:16:48.492450 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10196 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:16:48.543418 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:16:48.544418 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:16:48.544418 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:16:48.548414 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8156
+[Thu Feb 16 17:16:49.487128 2023] [mpm_winnt:notice] [pid 8156:tid 500] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:17:48.053907 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8156 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:17:48.104877 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:17:48.104877 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:17:48.104877 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:17:48.108873 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8624
+[Thu Feb 16 17:17:49.190200 2023] [mpm_winnt:notice] [pid 8624:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:17:52.041148 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8624 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:17:52.103349 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:17:52.103349 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:17:52.103349 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:17:52.107347 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 7276
+[Thu Feb 16 17:17:53.155697 2023] [mpm_winnt:notice] [pid 7276:tid 508] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:18:20.037618 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 7276 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:18:20.102577 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:18:20.102577 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:18:20.102577 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:18:20.106574 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9836
+[Thu Feb 16 17:18:21.298835 2023] [mpm_winnt:notice] [pid 9836:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:18:24.365357 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9836 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:18:24.427319 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:18:24.427319 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:18:24.427319 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:18:24.431317 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 7796
+[Thu Feb 16 17:18:25.450683 2023] [mpm_winnt:notice] [pid 7796:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:18:28.099816 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 7796 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:18:28.162780 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:18:28.162780 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:18:28.162780 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:18:28.167776 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9204
+[Thu Feb 16 17:18:29.149202 2023] [mpm_winnt:notice] [pid 9204:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:18:31.767408 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9204 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:18:31.836363 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:18:31.836363 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:18:31.836363 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:18:31.840362 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10592
+[Thu Feb 16 17:18:32.857729 2023] [mpm_winnt:notice] [pid 10592:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:18:44.327060 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10592 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:18:44.388025 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:18:44.388025 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:18:44.388025 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:18:44.392023 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10960
+[Thu Feb 16 17:18:45.361420 2023] [mpm_winnt:notice] [pid 10960:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:18:50.707468 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10960 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:18:50.774940 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:18:50.774940 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:18:50.774940 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:18:50.779937 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11420
+[Thu Feb 16 17:18:51.911541 2023] [mpm_winnt:notice] [pid 11420:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:19:12.889879 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11420 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:19:12.952843 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:19:12.952843 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:19:12.952843 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:19:12.957839 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2952
+[Thu Feb 16 17:19:14.105536 2023] [mpm_winnt:notice] [pid 2952:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:19:39.376180 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2952 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:19:39.437383 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:19:39.437383 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:19:39.437383 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:19:39.441381 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 3924
+[Thu Feb 16 17:19:40.559528 2023] [mpm_winnt:notice] [pid 3924:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:21:43.165748 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 3924 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:21:43.240702 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:21:43.240702 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:21:43.240702 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:21:43.246698 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10608
+[Thu Feb 16 17:21:44.389052 2023] [mpm_winnt:notice] [pid 10608:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:22:08.444129 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10608 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:22:08.503093 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:22:08.503093 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:22:08.503093 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:22:08.508092 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 7676
+[Thu Feb 16 17:22:09.570201 2023] [mpm_winnt:notice] [pid 7676:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:22:25.706711 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 7676 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:22:25.755678 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:22:25.755678 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:22:25.755678 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:22:25.759676 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 4552
+[Thu Feb 16 17:22:26.884729 2023] [mpm_winnt:notice] [pid 4552:tid 528] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:23:09.433850 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 4552 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:23:09.504808 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:23:09.504808 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:23:09.504808 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:23:09.508804 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 5456
+[Thu Feb 16 17:23:10.657364 2023] [mpm_winnt:notice] [pid 5456:tid 500] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:23:46.897482 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 5456 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:23:46.965438 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:23:46.965438 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:23:46.965438 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:23:46.969434 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11060
+[Thu Feb 16 17:23:48.012786 2023] [mpm_winnt:notice] [pid 11060:tid 512] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:23:57.268896 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11060 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:23:57.325820 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:23:57.325820 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:23:57.325820 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:23:57.334812 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 12060
+[Thu Feb 16 17:23:58.582038 2023] [mpm_winnt:notice] [pid 12060:tid 500] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:24:11.071504 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 12060 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:24:11.132467 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:24:11.132467 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:24:11.132467 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:24:11.136464 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2372
+[Thu Feb 16 17:24:12.144948 2023] [mpm_winnt:notice] [pid 2372:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:24:15.280560 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2372 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:24:15.332530 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:24:15.332530 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:24:15.332530 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:24:15.337527 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10864
+[Thu Feb 16 17:24:16.355058 2023] [mpm_winnt:notice] [pid 10864:tid 500] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:26:10.701741 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10864 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:26:10.766700 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:26:10.766700 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:26:10.766700 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:26:10.770697 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11968
+[Thu Feb 16 17:26:11.737097 2023] [mpm_winnt:notice] [pid 11968:tid 516] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:28:29.892778 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11968 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:28:29.978728 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:28:29.978728 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:28:29.978728 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:28:29.996714 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 5440
+[Thu Feb 16 17:28:31.123013 2023] [mpm_winnt:notice] [pid 5440:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:29:01.079167 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 5440 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:29:01.137084 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:29:01.137084 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:29:01.137084 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:29:01.141080 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2352
+[Thu Feb 16 17:29:02.551717 2023] [mpm_winnt:notice] [pid 2352:tid 512] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:30:09.096849 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2352 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:30:09.163807 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:30:09.163807 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:30:09.163807 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:30:09.168805 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11716
+[Thu Feb 16 17:30:10.216157 2023] [mpm_winnt:notice] [pid 11716:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:30:47.508644 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11716 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:30:47.566798 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:30:47.566798 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:30:47.566798 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:30:47.571794 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8540
+[Thu Feb 16 17:30:48.698372 2023] [mpm_winnt:notice] [pid 8540:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:31:00.265201 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8540 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:31:00.325167 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:31:00.325167 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:31:00.325167 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:31:00.330161 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 1448
+[Thu Feb 16 17:31:01.387503 2023] [mpm_winnt:notice] [pid 1448:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:32:52.252682 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 1448 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:32:52.304058 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:32:52.304058 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:32:52.304058 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:32:52.308053 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11428
+[Thu Feb 16 17:32:53.295050 2023] [mpm_winnt:notice] [pid 11428:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:33:38.145981 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11428 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:33:38.339861 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:33:38.339861 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:33:38.339861 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:33:38.351853 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 5328
+[Thu Feb 16 17:33:39.935696 2023] [mpm_winnt:notice] [pid 5328:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:33:44.151874 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 5328 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:33:44.208838 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:33:44.209837 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:33:44.209837 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:33:44.213836 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8360
+[Thu Feb 16 17:33:45.247194 2023] [mpm_winnt:notice] [pid 8360:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:34:18.408620 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8360 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:34:18.470582 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:34:18.471582 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:34:18.471582 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:34:18.475579 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11668
+[Thu Feb 16 17:34:19.518261 2023] [mpm_winnt:notice] [pid 11668:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:34:33.134877 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11668 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:34:33.192839 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:34:33.192839 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:34:33.192839 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:34:33.196837 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 12076
+[Thu Feb 16 17:34:34.363115 2023] [mpm_winnt:notice] [pid 12076:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:34:52.953650 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 12076 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:34:53.035599 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:34:53.035599 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:34:53.035599 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:34:53.040595 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2224
+[Thu Feb 16 17:34:54.475602 2023] [mpm_winnt:notice] [pid 2224:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:34:58.178209 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2224 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:34:58.233177 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:34:58.233177 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:34:58.233177 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:34:58.238173 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11660
+[Thu Feb 16 17:34:59.236554 2023] [mpm_winnt:notice] [pid 11660:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:35:03.747216 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11660 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:35:03.805180 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:35:03.805180 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:35:03.805180 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:35:03.822171 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 5004
+[Thu Feb 16 17:35:05.252282 2023] [mpm_winnt:notice] [pid 5004:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:35:08.584476 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 5004 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:35:08.632327 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:35:08.632327 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:35:08.632327 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:35:08.636325 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9736
+[Thu Feb 16 17:35:09.674343 2023] [mpm_winnt:notice] [pid 9736:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:35:35.488720 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9736 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:35:35.568583 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:35:35.568583 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:35:35.568583 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:35:35.574611 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9748
+[Thu Feb 16 17:35:36.904337 2023] [mpm_winnt:notice] [pid 9748:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:37:00.016276 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9748 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:37:00.070247 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:37:00.070247 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:37:00.070247 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:37:00.074239 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8340
+[Thu Feb 16 17:37:01.034319 2023] [mpm_winnt:notice] [pid 8340:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:37:25.915192 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8340 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:37:25.978152 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:37:25.978152 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:37:25.978152 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:37:25.984148 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8744
+[Thu Feb 16 17:37:27.029529 2023] [mpm_winnt:notice] [pid 8744:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:38:05.879540 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8744 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:38:05.931507 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:38:05.931507 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:38:05.931507 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:38:05.936504 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8308
+[Thu Feb 16 17:38:06.987422 2023] [mpm_winnt:notice] [pid 8308:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 17:49:57.132420 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8308 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 17:49:57.204561 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 17:49:57.204561 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 17:49:57.204561 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 17:49:57.212555 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2308
+[Thu Feb 16 17:49:58.335904 2023] [mpm_winnt:notice] [pid 2308:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 23:15:30.843227 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2308 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 23:15:31.938473 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 23:15:31.938473 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 23:15:31.938473 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 23:15:31.977052 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 1428
+[Thu Feb 16 23:15:33.171441 2023] [mpm_winnt:notice] [pid 1428:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 23:15:41.442001 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 1428 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 23:15:41.498997 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 23:15:41.498997 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 23:15:41.498997 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 23:15:41.504000 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10036
+[Thu Feb 16 23:15:42.480173 2023] [mpm_winnt:notice] [pid 10036:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 23:15:51.782335 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10036 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 23:15:51.901174 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 23:15:51.901174 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 23:15:51.901174 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 23:15:51.907169 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10340
+[Thu Feb 16 23:15:52.934530 2023] [mpm_winnt:notice] [pid 10340:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 16 23:15:55.610464 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10340 exited with status 3221226356 -- Restarting.
+[Thu Feb 16 23:15:55.670224 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Thu Feb 16 23:15:55.670224 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Thu Feb 16 23:15:55.670224 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Thu Feb 16 23:15:55.676224 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9640
+[Thu Feb 16 23:15:56.713573 2023] [mpm_winnt:notice] [pid 9640:tid 504] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:11:35.470616 2023] [php:error] [pid 9640:tid 1164] [client ::1:49967] script 'C:/Users/DELL/Documents/GitHub/Testing/root/style.php' not found or unable to stat
+[Fri Feb 17 12:21:46.752971 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9640 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 12:21:47.800927 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 12:21:47.800927 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 12:21:47.800927 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 12:21:47.851568 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10760
+[Fri Feb 17 12:21:49.443185 2023] [mpm_winnt:notice] [pid 10760:tid 496] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:21:52.490656 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10760 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 12:21:52.703721 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 12:21:52.703721 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 12:21:52.703721 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 12:21:52.714714 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9832
+[Fri Feb 17 12:21:54.121842 2023] [mpm_winnt:notice] [pid 9832:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:21:59.379466 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9832 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 12:21:59.441436 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 12:21:59.441436 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 12:21:59.441436 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 12:21:59.446424 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 3040
+[Fri Feb 17 12:22:00.808761 2023] [mpm_winnt:notice] [pid 3040:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:27:21.476824 2023] [php:error] [pid 3040:tid 1168] [client ::1:50116] PHP Parse error:  syntax error, unexpected variable "$result", expecting "," or ";" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\db_conn.php on line 15, referer: http://localhost/modestsilk/
+[Fri Feb 17 12:27:21.520794 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 3040 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 12:27:21.654711 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 12:27:21.654711 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 12:27:21.654711 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 12:27:21.670701 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 10060
+[Fri Feb 17 12:27:22.786008 2023] [mpm_winnt:notice] [pid 10060:tid 476] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:31:39.699915 2023] [php:error] [pid 10060:tid 1160] [client ::1:50149] script 'C:/Users/DELL/Documents/GitHub/Testing/root/senarai produkP.php' not found or unable to stat, referer: http://localhost/
+[Fri Feb 17 12:42:54.216966 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 10060 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 12:42:54.291920 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 12:42:54.291920 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 12:42:54.291920 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 12:42:54.298918 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 13020
+[Fri Feb 17 12:42:55.455196 2023] [mpm_winnt:notice] [pid 13020:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:43:17.699993 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 13020 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 12:43:17.768206 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 12:43:17.768206 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 12:43:17.768206 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 12:43:17.774204 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2260
+[Fri Feb 17 12:43:18.978458 2023] [mpm_winnt:notice] [pid 2260:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:43:22.102430 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2260 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 12:43:22.185380 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 12:43:22.185380 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 12:43:22.185380 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 12:43:22.190375 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 5164
+[Fri Feb 17 12:43:23.510114 2023] [mpm_winnt:notice] [pid 5164:tid 496] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 12:48:09.761133 2023] [php:error] [pid 5164:tid 1172] [client ::1:58609] script 'C:/Users/DELL/Documents/GitHub/Testing/root/borang_login.php' not found or unable to stat, referer: http://localhost/
+[Fri Feb 17 13:22:05.641064 2023] [php:error] [pid 5164:tid 1172] [client ::1:55063] script 'C:/Users/DELL/Documents/GitHub/Testing/root/senarai produkP.php' not found or unable to stat, referer: http://localhost/
+[Fri Feb 17 13:50:07.123584 2023] [php:error] [pid 5164:tid 1168] [client ::1:51527] script 'C:/Users/DELL/Documents/GitHub/Testing/root/senarai produkP.php' not found or unable to stat, referer: http://localhost/
+[Fri Feb 17 14:01:22.343563 2023] [php:error] [pid 5164:tid 1168] [client ::1:61685] script 'C:/Users/DELL/Documents/GitHub/Testing/root/senarai produkP.php' not found or unable to stat, referer: http://localhost/
+[Fri Feb 17 16:22:03.462690 2023] [php:warn] [pid 5164:tid 1168] [client ::1:59023] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 16:22:38.825083 2023] [php:warn] [pid 5164:tid 1168] [client ::1:59038] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 16:23:23.838207 2023] [php:warn] [pid 5164:tid 1172] [client ::1:59057] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 16:23:32.795373 2023] [php:error] [pid 5164:tid 1172] [client ::1:59067] script 'C:/Users/DELL/Documents/GitHub/Testing/root/borang_daftar.php' not found or unable to stat, referer: http://localhost/borang_login.php
+[Fri Feb 17 16:25:15.355693 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 5164 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 16:25:16.655613 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 16:25:16.655613 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 16:25:16.655613 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 16:25:16.722018 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 5972
+[Fri Feb 17 16:25:18.035964 2023] [mpm_winnt:notice] [pid 5972:tid 496] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 16:25:20.985618 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 5972 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 16:25:21.072563 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 16:25:21.073563 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 16:25:21.073563 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 16:25:21.078559 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11120
+[Fri Feb 17 16:25:22.299450 2023] [mpm_winnt:notice] [pid 11120:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 16:25:37.218184 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11120 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 16:25:37.268157 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 16:25:37.268157 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 16:25:37.268157 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 16:25:37.272150 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 6280
+[Fri Feb 17 16:25:38.244339 2023] [mpm_winnt:notice] [pid 6280:tid 480] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 19:58:07.920808 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 6280 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 19:58:08.990199 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 19:58:08.990199 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 19:58:08.990199 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 19:58:09.040412 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11832
+[Fri Feb 17 19:58:10.405405 2023] [mpm_winnt:notice] [pid 11832:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 19:59:57.697903 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11832 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 19:59:57.749889 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 19:59:57.749889 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 19:59:57.749889 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 19:59:57.756575 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9136
+[Fri Feb 17 19:59:58.950081 2023] [mpm_winnt:notice] [pid 9136:tid 516] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 20:00:11.197190 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9136 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 20:00:11.294130 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 20:00:11.294130 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 20:00:11.294130 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 20:00:11.303125 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 11580
+[Fri Feb 17 20:00:12.475396 2023] [mpm_winnt:notice] [pid 11580:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 20:01:14.115984 2023] [php:warn] [pid 11580:tid 1168] [client ::1:60978] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:01:20.422399 2023] [php:warn] [pid 11580:tid 1168] [client ::1:60978] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:02:12.453368 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 11580 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 20:02:12.525203 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 20:02:12.525203 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 20:02:12.525203 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 20:02:12.529201 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 12212
+[Fri Feb 17 20:02:13.706193 2023] [mpm_winnt:notice] [pid 12212:tid 500] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 20:02:33.860378 2023] [php:warn] [pid 12212:tid 1168] [client ::1:61090] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:06:54.939066 2023] [php:error] [pid 12212:tid 1168] [client ::1:61154] script 'C:/Users/DELL/Documents/GitHub/Testing/root/borang_daftar.php' not found or unable to stat, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:11:39.771162 2023] [php:warn] [pid 12212:tid 1168] [client ::1:61194] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:15:24.875307 2023] [php:warn] [pid 12212:tid 1160] [client ::1:61238] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:20:25.185775 2023] [php:warn] [pid 12212:tid 1168] [client ::1:57790] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:20:45.959604 2023] [php:warn] [pid 12212:tid 1168] [client ::1:57793] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:23:08.917412 2023] [php:warn] [pid 12212:tid 1160] [client ::1:57811] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:24:10.073673 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 12212 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 20:24:10.156014 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 20:24:10.157014 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 20:24:10.157014 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 20:24:10.163009 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 4836
+[Fri Feb 17 20:24:11.364263 2023] [mpm_winnt:notice] [pid 4836:tid 496] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 20:53:01.416394 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 4836 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 20:53:01.475971 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 20:53:01.475971 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 20:53:01.475971 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 20:53:01.479969 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 3104
+[Fri Feb 17 20:53:02.458055 2023] [mpm_winnt:notice] [pid 3104:tid 500] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 20:53:23.206934 2023] [php:warn] [pid 3104:tid 1172] [client ::1:58068] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:53:34.793091 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 3104 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 20:53:34.843855 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 20:53:34.843855 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 20:53:34.843855 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 20:53:34.848850 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 9692
+[Fri Feb 17 20:53:35.908595 2023] [mpm_winnt:notice] [pid 9692:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 20:53:40.807181 2023] [php:warn] [pid 9692:tid 1168] [client ::1:58076] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 20:54:26.939784 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 9692 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 20:54:27.077701 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 20:54:27.077701 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 20:54:27.077701 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 20:54:27.087694 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 12916
+[Fri Feb 17 20:54:28.269960 2023] [mpm_winnt:notice] [pid 12916:tid 496] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 22:02:20.960537 2023] [php:warn] [pid 12916:tid 1172] [client ::1:56039] PHP Warning:  Undefined variable $nama in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_daftar.php on line 27, referer: http://localhost/borang_daftar.php
+[Fri Feb 17 22:02:45.306564 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 12916 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 22:02:45.440134 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 22:02:45.440134 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 22:02:45.440134 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 22:02:45.449131 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 6288
+[Fri Feb 17 22:02:46.490583 2023] [mpm_winnt:notice] [pid 6288:tid 488] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 22:03:17.568363 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 6288 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 22:03:17.632324 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 22:03:17.632324 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 22:03:17.632324 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 22:03:17.639319 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 13284
+[Fri Feb 17 22:03:18.880383 2023] [mpm_winnt:notice] [pid 13284:tid 492] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 22:03:25.454655 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 13284 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 22:03:25.511048 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 22:03:25.511048 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 22:03:25.511048 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 22:03:25.515051 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 3312
+[Fri Feb 17 22:03:26.458309 2023] [mpm_winnt:notice] [pid 3312:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 22:03:38.402634 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 3312 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 22:03:38.458013 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 22:03:38.458013 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 22:03:38.458013 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 22:03:38.463011 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 8632
+[Fri Feb 17 22:03:39.502517 2023] [mpm_winnt:notice] [pid 8632:tid 500] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 22:04:12.515714 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 8632 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 22:04:12.569246 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 22:04:12.569246 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 22:04:12.569246 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 22:04:12.573774 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 2492
+[Fri Feb 17 22:04:13.623060 2023] [mpm_winnt:notice] [pid 2492:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 22:06:10.461919 2023] [php:warn] [pid 2492:tid 1164] [client ::1:56188] PHP Warning:  Undefined variable $nama in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_daftar.php on line 27, referer: http://localhost/borang_daftar.php
+[Fri Feb 17 22:06:33.914427 2023] [php:warn] [pid 2492:tid 1164] [client ::1:56196] PHP Warning:  Undefined array key "login" in C:\\Users\\DELL\\Documents\\GitHub\\Testing\\root\\proses_login.php on line 9, referer: http://localhost/borang_login.php
+[Fri Feb 17 22:06:47.022334 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 2492 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 22:06:47.074304 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 22:06:47.074304 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 22:06:47.074304 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 22:06:47.078301 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 3756
+[Fri Feb 17 22:06:48.019580 2023] [mpm_winnt:notice] [pid 3756:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 17 22:06:53.960537 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00428: Parent: child process 3756 exited with status 3221226356 -- Restarting.
+[Fri Feb 17 22:06:54.034491 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Feb 17 22:06:54.034491 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Feb 17 22:06:54.034491 2023] [core:notice] [pid 2364:tid 472] AH00094: Command line: 'C:\\Users\\DELL\\Documents\\GitHub\\Testing/apache2/bin/httpd_usbwv8.exe -d C:/Users/DELL/Documents/GitHub/Testing/Apache2'
+[Fri Feb 17 22:06:54.041486 2023] [mpm_winnt:notice] [pid 2364:tid 472] AH00418: Parent: Created child process 6288
+[Fri Feb 17 22:06:55.559114 2023] [mpm_winnt:notice] [pid 6288:tid 472] AH00354: Child: Starting 64 worker threads.
