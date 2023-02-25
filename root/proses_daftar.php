@@ -7,7 +7,7 @@ include ('db_conn.php');
 pada borang_daftar.php */
 $login = $_POST['login'];
 $pwd = md5($_POST['klaluan']); //encrypt katalaluan
-$kat = $_POST['nama'];
+$nama = $_POST['nama'];
 
  //semak jika login_id telah wujud dalam DB
  $semak = "SELECT login_id FROM pembeli
@@ -29,7 +29,7 @@ $kat = $_POST['nama'];
     if (mysqli_query($conn, $mysql)) {
         //papar js popup mesej jika pembeli baharu berjaya daftar
         echo '<script>
-        alert ("Berjaya daftar pembli baharu!!!");
+        alert ("Berjaya daftar pembeli baharu!!!");
         window.location.href="borang_login.php";</script>';
         //selepas berjaya daftar, kembali ke login page
     } else {

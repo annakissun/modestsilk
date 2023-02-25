@@ -48,7 +48,7 @@ table {
 }
 
 td {
-    width: 30%;
+    width: 30px;
 }
 
 tr {
@@ -107,6 +107,7 @@ li a {
     text-align: center;
     padding: 10px 16px;
     border-left: 3px solid #bd5e7e;
+    border-right: 3px solid #bd5e7e;
     text-decoration: none;
     font-weight: bold
 }

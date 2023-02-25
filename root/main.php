@@ -2,7 +2,7 @@
     <table>
         <tr>
             <td rowspan="3"></td>
-            <td rowspan="3"><img src="images/meow.jpg" width="600" height="350"></td>
+            <td rowspan="3"><img src="gambar/meow.jpg" width="600" height="350"></td>
 
             <td></td>
         </tr>
@@ -13,7 +13,7 @@
             <td></td>
         </tr>
         <tr>
-            <rd><a href="senarai produkP.php?kat=0" class="btn" style="text-decoration: none;">Lihat sekarang</a></td>
+            <rd><a href="senarai_produkP.php?kat=0" class="btn" style="text-decoration: none;">Lihat sekarang</a></td>
         </tr>
 
         <p>
