@@ -20,16 +20,7 @@ include($navmenu);
     <link rel="stylesheet" href="style.css" />
     <style>
         #mainbody {
-            background-color: #DDC1BD;
-            padding: 10px;
             text-align: right;
-        }
-
-        #tajuk {
-            font-size: 30px;
-            font-family: Courier New;
-            font-weight: bold;
-            text-align: center;
         }
 
         table {

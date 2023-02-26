@@ -1,20 +1,9 @@
 <html>
+
 <head>
     <link rel="stylesheet" href="style.css" />
     <style>
         /*CSS untuk borang daftar*/
-        #mainbody {
-            background-color: #DDC1BD;
-            padding: 20px;
-        }
-
-        #tajuk {
-            font-size: 30px;
-            font-family: 'Courier New';
-            font-weight: bold;
-            text-align: center;
-            color: White;
-        }
 
         table {
             border: 3px solid #bd5e7e;
@@ -42,7 +31,7 @@
 
     <div id="mainbody">
         <form action="proses_daftar.php" method="POST">
-        <h2>Selamat Datang Ke Sistem Pemilihan</h2>
+            <h2>Selamat Datang Ke Sistem Pemilihan</h2>
             <div id="tajuk">Daftar Pembeli Baharu</div>
             <p>
 
@@ -55,7 +44,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td>Login ID:</td>
+                    <td>Login ID :</td>
                     <td><input type="text" name="login" required></td>
                     <td></td>
                 </tr>
@@ -80,17 +69,25 @@
                     <td><input type="submit" name="btnDaf" value="Daftar"></td>
                     <td></td>
                 </tr>
-
+                <tr>
+                    <td></td>
+                    <td colspan="2">
+                        <a href="borang_login.php">Kembali
+                        </a>
+                    </td>
+                    <td></td>
+                </tr>
                 <tr>
                     <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
                 </tr>
-    </table>
-    
-    </form>
+            </table>
+
+        </form>
     </div>
-    <?php include ("footer.php"); ?>
-    </body>
-    </html>
+    <?php include("footer.php"); ?>
+</body>
+
+</html>

@@ -7,18 +7,6 @@ include("nav.php");
 <head>
     <link rel="stylesheet" href="style.css" />
     <style>
-        #mainbody {
-            background-color: #DDC1BD;
-            padding: 20px;
-        }
-
-        #tajuk {
-            font-size: 30px;
-            font-family: Courier New;
-            font-weight: bold;
-            text-align: center;
-        }
-
         table {
             border: 3px solid #bd5e7e;
             border-collapse: collapse;

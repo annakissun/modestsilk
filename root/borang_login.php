@@ -1,20 +1,9 @@
 <html>
+
 <head>
     <link rel="stylesheet" href="style.css" />
     <style>
         /*CSS untuk borang login*/
-        #mainbody {
-            background-color: #DDC1BD;
-            padding: 20px;
-        }
-
-        #tajuk {
-            font-size: 30px;
-            font-family: 'Courier New';
-            font-weight: bold;
-            text-align: center;
-            color: White;
-        }
 
         table {
             border: 3px solid #bd5e7e;

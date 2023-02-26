@@ -16,20 +16,8 @@ include($navmenu);
 <html>
 
 <head>
-<link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css" />
     <style>
-        #mainbody {
-            background-color: #DDC1BD;
-            padding: 20px;
-        }
-
-        #tajuk {
-            font-size: 30px;
-            font-family: Courier New;
-            font-weight: bold;
-            text-align: center;
-        }
-
         table {
             border: 3px solid #bd5e7e;
             margin-left: auto;
@@ -65,7 +53,7 @@ include($navmenu);
 </head>
 
 <body>
-    <div id="mainbody">
+    <div id="mainbody2">
         <div id="tajuk">
             <p>Saring Baju Raya</p>
         </div>

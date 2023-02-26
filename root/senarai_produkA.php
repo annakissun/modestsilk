@@ -5,20 +5,8 @@ include("nav.php");
 <html>
 
 <head>
-<link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css" />
     <style>
-        #mainbody {
-            background-color:  #DDC1BD;
-            padding: 10px;
-        }
-
-        #tajuk {
-            font-size: 30px;
-            font-family: Courier New;
-            font-weight: bold;
-            text-align: center;
-        }
-
         table {
             margin-left: auto;
             margin-right: auto;
@@ -66,8 +54,7 @@ include("nav.php");
 
         $bil = 0;
 
-        if (mysqli_num_rows($result) >0)
-        {
+        if (mysqli_num_rows($result) > 0) {
             //table untuk paparan data
             echo "<table>";
             echo "<col width='10'>"; //saiz column 1
@@ -90,34 +77,34 @@ include("nav.php");
             echo "</tr>";
 
             //papar semua data dari jadual di DB
-            while($row = mysqli_fetch_assoc($result))
-            {
+            while ($row = mysqli_fetch_assoc($result)) {
                 $bil++;
 
                 echo "<tr height='10'>";
                 echo "<td></td>";
-                echo "<td>".$bil.".</td>";
-                echo "<td>".$row['no_siri']."</td>";
-                echo "<td>".$row['jenama']."</td>";
-                echo "<td>".$row['harga']."</td>";
-                echo "<td>".$row['kuantiti']."</td>";
+                echo "<td>" . $bil . ".</td>";
+                echo "<td>" . $row['no_siri'] . "</td>";
+                echo "<td>" . $row['jenama'] . "</td>";
+                echo "<td>" . $row['harga'] . "</td>";
+                echo "<td>" . $row['kuantiti'] . "</td>";
 
-                echo "<td><a href='edit_produk.php?no=".$row['no_siri']."'>
+                echo "<td><a href='edit_produk.php?no=" . $row['no_siri'] . "'>
                 edit
                 </a></td>";
-                echo "<td><a href='padam_produk.php?no=".$row['no_siri']."'>
+                echo "<td><a href='padam_produk.php?no=" . $row['no_siri'] . "'>
                 padam
                 </a></td>";
                 echo "</tr>";
             }
             echo "</table>";
+        } else {
+            echo "<center>Tiada rekod</center>";
         }
-        else { echo "<center>Tiada rekod</center>"; }
         ?>
-        </div>
-        <?php
-        include ("footer.php");
-        ?>
+    </div>
+    <?php
+    include("footer.php");
+    ?>
 </body>
 
 </html>

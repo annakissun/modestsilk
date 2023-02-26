@@ -7,18 +7,6 @@ include("nav.php");
 <head>
     <link rel="stylesheet" href="style.css" />
     <style>
-        #mainbody {
-            background-color: #DDC1BD;
-            padding: 20px;
-        }
-
-        #tajuk {
-            font-size: 30px;
-            font-family: Courier New;
-            font-weight: bold;
-            text-align: center;
-        }
-
         table {
             border: 3px solid #bd5e7e;
             border-collapse: collapse;
@@ -74,14 +62,14 @@ include("nav.php");
     // jika user klik butang kemaskini.
     //update record dalam jadual
     if (isset($_POST['edit'])) {
-        
-        $jn=$_POST["jn"];
-        $hg=$_POST["hg"];
-        $kt=$_POST["kt"];
-        $pn=$_POST["pn"];
+
+        $jn = $_POST["jn"];
+        $hg = $_POST["hg"];
+        $kt = $_POST["kt"];
+        $pn = $_POST["pn"];
 
         $stmt = $conn->prepare('UPDATE baju SET kod_jenama = ?, harga = ?, kuantiti = ?, penerangan = ? WHERE no_siri = ?');
-        $stmt->bind_param("sssss",$jn,$hg,$kt,$pn,$nosiri); 
+        $stmt->bind_param("sssss", $jn, $hg, $kt, $pn, $nosiri);
 
         if ($stmt->execute()) {
             echo '<script>alert ("Berjaya Kemaskini produk!"); 
@@ -89,9 +77,8 @@ include("nav.php");
         } else {
             echo "Error ; " . mysqli_error($conn);
         }
-        
-        $stmt->close();
 
+        $stmt->close();
     }
     //proses update tamat
 
@@ -134,15 +121,15 @@ include("nav.php");
             <td></td>
             <td>Jenama :</td>
             <td><select name="jn">
-                <?php
-                $mysql = "SELECT * FROM jenama";
-                $result = mysqli_query($conn, $mysql);
-                while ($row = mysqli_fetch_array($result)) {
-                ?>
-                    <option value="<?php echo $row['kod_jenama']; ?>">
-                        <?php echo $row['jenama']; ?>
-                    </option>
-                <?php } ?>
+                    <?php
+                    $mysql = "SELECT * FROM jenama";
+                    $result = mysqli_query($conn, $mysql);
+                    while ($row = mysqli_fetch_array($result)) {
+                    ?>
+                        <option value="<?php echo $row['kod_jenama']; ?>">
+                            <?php echo $row['jenama']; ?>
+                        </option>
+                    <?php } ?>
                 </select>
             </td>
             <td></td>
