@@ -66,7 +66,9 @@
                 <tr>
                     <td></td>
                     <td></td>
-                    <td><input type="submit" name="btnDaf" value="Daftar"></td>
+                    <td style="text-align: right;">
+                        <input type="submit" name="btnDaf" value="Daftar">
+                    </td>
                     <td></td>
                 </tr>
                 <tr>
