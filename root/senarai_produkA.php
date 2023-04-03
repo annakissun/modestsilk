@@ -30,11 +30,11 @@ include("nav.php");
         }
 
         tr:nth-child(even) {
-            background-color: LightYellow;
+            background-color: white;
         }
 
         tr:nth-child(odd) {
-            background-color: Khaki;
+            background-color: white;
         }
     </style>
 </head>
