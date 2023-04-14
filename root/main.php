@@ -2,7 +2,7 @@
     <table>
         <tr>
             <td rowspan="3"></td>
-            <td rowspan="3"><img src="gambar/meow.jpg" width="600" height="350"></td>
+            <td rowspan="3"><img src="gambar/posternew.png" width="1000" height="600"></td>
 
             <td></td>
         </tr>
@@ -17,7 +17,7 @@
         </tr>
 
         <p>
-        <h2> Promosi Akhir Tahun </h2>
+        <h1> Promosi Akhir Tahun! </h1>
 
         </p>
 

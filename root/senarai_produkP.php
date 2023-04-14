@@ -94,8 +94,8 @@ include($navmenu);
                 $gmbr = "gambar/" . $row['gambar'];
 
                 //papar maklumat produk
-                echo "<td><img src=" . $gmbr . " width='92px'
-                height='100px'><p>" . $row['jenama'] . " 
+                echo "<td><img src=" . $gmbr . " width='300px'
+                height='300px'><p>" . $row['jenama'] . " 
                 " . $row['no_siri'] . "
                 <p>RM " . $row['harga'] . "
                 <p>" . $row['penerangan'] . "
@@ -104,7 +104,7 @@ include($navmenu);
                 //hadkan data yang disimpan, 3 rekod dalam 1 baris
                 $i++;
                 $lajur = 3;
-                if ($i != $jumlah && $si >= $lajur && $i % $lajur == 0)
+                if ($i != $jumlah && $i >= $lajur && $i % $lajur == 0)
                     echo "</tr><tr>";
             }
             echo "</tr></table>";
