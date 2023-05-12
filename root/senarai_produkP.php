@@ -3,7 +3,7 @@ include("header.php");
 include("db_conn.php");
 
 if ($_GET['kat'] == 0) {
-    $navmenu = "topnav.php";
+    $navmenu = "topnav_right.php";
     $butang = '<a href="saring_produk.php? kat=0" 
     class="butang"
     style="text-decoration: none;">

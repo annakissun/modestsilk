@@ -94,6 +94,6 @@ class __TwigTemplate_ef4d9ddb701737b25ae0af7928b01d2f extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "display/results/table_headers_for_columns.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\display\\results\\table_headers_for_columns.twig");
+        return new Source("", "display/results/table_headers_for_columns.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\display\\results\\table_headers_for_columns.twig");
     }
 }

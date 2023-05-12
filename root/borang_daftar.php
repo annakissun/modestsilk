@@ -26,7 +26,7 @@
 <body>
     <?php
     include("header.php");
-    include("topnav.php");
+    include("topnav_right.php");
     ?>
 
     <div id="mainbody">

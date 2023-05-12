@@ -253,6 +253,6 @@ echo _gettext("Continue");
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/check_all_tables.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\database\\structure\\check_all_tables.twig");
+        return new Source("", "database/structure/check_all_tables.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\database\\structure\\check_all_tables.twig");
     }
 }

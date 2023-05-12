@@ -5,7 +5,7 @@ include("header.php");
 //kat==0 (pembeli tidak login)
 //ket==1 (pemebli login)
 if ($_GET['kat'] == 0) {
-    $navmenu = "topnav.php";
+    $navmenu = "topnav_right.php";
     $link = "kat=0";
 } else {
     $navmenu = "nav.php";

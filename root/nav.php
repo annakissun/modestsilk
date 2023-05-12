@@ -71,13 +71,13 @@ include('session.php');
     <?php
     if ($kat == "A") //Menu Admin
     {
-        $utama = '<a href="senarai_produkA.php">';
+        
         $menu1 = '<a href="senarai_produkA.php">Senarai Baju</a>';
         $menu2 = '<a href="borang_produk.php">Tambah Baju</a>';
         $menu3 = '<a href="jenama.php">Jenama Baju</a>';
     } else //Menu pembeli kat=1 (untuk pembeli yang login)
     {
-        $utama = '<a href="senarai_produkP.php?kat=1">';
+      
         $menu1 = '<a href="senarai_produkP.php?kat=1">Senarai Baju</a>';
         $menu2 = '<a href="saring_produk.php?kat=1">Saring Baju</a>';
         $menu3 = '';
@@ -85,7 +85,7 @@ include('session.php');
     ?>
 
     <ul>
-        <li><?php echo $utama; ?>Utama</a></li>
+        
         <li class="dropdown">
             <a href="#" class="dropbtn">Hai, <?php echo $nama; ?></a>
             <div class="dropdown-content">

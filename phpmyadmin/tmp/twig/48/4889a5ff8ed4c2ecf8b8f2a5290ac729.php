@@ -559,6 +559,6 @@ echo _gettext("in use");
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/structure_table_row.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\database\\structure\\structure_table_row.twig");
+        return new Source("", "database/structure/structure_table_row.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\database\\structure\\structure_table_row.twig");
     }
 }

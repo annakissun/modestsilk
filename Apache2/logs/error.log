@@ -1,7 +1,31 @@
-[Fri Apr 14 11:10:49.487141 2023] [mpm_winnt:notice] [pid 3660:tid 536] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Apr 14 11:10:49.487141 2023] [mpm_winnt:notice] [pid 3660:tid 536] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Apr 14 11:10:49.487141 2023] [core:notice] [pid 3660:tid 536] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Apr 14 11:10:49.498757 2023] [mpm_winnt:notice] [pid 3660:tid 536] AH00418: Parent: Created child process 2264
-[Fri Apr 14 11:10:50.537869 2023] [mpm_winnt:notice] [pid 2264:tid 484] AH00354: Child: Starting 64 worker threads.
-[Fri Apr 14 11:16:47.803037 2023] [php:warn] [pid 2264:tid 1268] [client ::1:65099] PHP Warning:  Undefined variable $si in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkP.php on line 107, referer: http://localhost/index.php
-[Fri Apr 14 11:16:47.803037 2023] [php:warn] [pid 2264:tid 1268] [client ::1:65099] PHP Warning:  Undefined variable $si in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkP.php on line 107, referer: http://localhost/index.php
+[Fri May 12 12:17:32.490931 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri May 12 12:17:32.490931 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri May 12 12:17:32.490931 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri May 12 12:17:32.500088 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 14664
+[Fri May 12 12:17:33.180214 2023] [mpm_winnt:notice] [pid 14664:tid 500] AH00354: Child: Starting 64 worker threads.
+[Fri May 12 12:23:43.624258 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 14664 exited with status 3221226356 -- Restarting.
+[Fri May 12 12:23:43.720688 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri May 12 12:23:43.721580 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri May 12 12:23:43.721580 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri May 12 12:23:43.728573 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 13900
+[Fri May 12 12:23:44.458149 2023] [mpm_winnt:notice] [pid 13900:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri May 12 12:23:49.379876 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 13900 exited with status 3221226356 -- Restarting.
+[Fri May 12 12:23:49.474215 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri May 12 12:23:49.474215 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri May 12 12:23:49.474215 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri May 12 12:23:49.482138 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 11024
+[Fri May 12 12:23:50.176272 2023] [mpm_winnt:notice] [pid 11024:tid 496] AH00354: Child: Starting 64 worker threads.
+[Fri May 12 12:23:51.934222 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 11024 exited with status 3221226356 -- Restarting.
+[Fri May 12 12:23:52.030947 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri May 12 12:23:52.030947 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri May 12 12:23:52.030947 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri May 12 12:23:52.039858 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 12348
+[Fri May 12 12:23:53.034111 2023] [mpm_winnt:notice] [pid 12348:tid 516] AH00354: Child: Starting 64 worker threads.
+[Fri May 12 12:23:57.681864 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 12348 exited with status 3221226356 -- Restarting.
+[Fri May 12 12:23:57.775897 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri May 12 12:23:57.776857 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri May 12 12:23:57.776857 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri May 12 12:23:57.786830 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 5992
+[Fri May 12 12:23:58.351352 2023] [mpm_winnt:notice] [pid 5992:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri May 12 12:25:10.774736 2023] [php:warn] [pid 5992:tid 1272] [client ::1:65370] PHP Warning:  Undefined variable $conn in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php on line 53, referer: http://localhost/proses_login.php
+[Fri May 12 12:25:10.774736 2023] [php:error] [pid 5992:tid 1272] [client ::1:65370] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php:53\nStack trace:\n#0 C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php(53): mysqli_query(NULL, 'SELECT *\\r\\n     ...')\n#1 {main}\n  thrown in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php on line 53, referer: http://localhost/proses_login.php
