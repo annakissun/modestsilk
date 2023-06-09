@@ -186,6 +186,6 @@ echo _gettext("Event");
 
     public function getSourceContext()
     {
-        return new Source("", "database/triggers/list.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\database\\triggers\\list.twig");
+        return new Source("", "database/triggers/list.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\database\\triggers\\list.twig");
     }
 }

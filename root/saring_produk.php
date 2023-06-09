@@ -28,7 +28,7 @@ include($navmenu);
         }
 
         td {
-            text-align: right;
+            text-align: left;
         }
 
         tr {
@@ -36,11 +36,11 @@ include($navmenu);
         }
 
         select {
-            width: 200px;
+            width: 100px;
         }
 
         input {
-            width: 90px;
+            width: 100px;
         }
 
         #atau {
@@ -99,8 +99,8 @@ include($navmenu);
                 <tr>
                     <td></td>
                     <td>Harga:</td>
-                    <td><input type="number" name="hg1" step="any" placeholder="min"> -
-                    <td><input type="number" name="hg2" step="any" placeholder="max"></td>
+                    <td><input type="number" name="hg1" step="any" placeholder="min"> 
+                    <td><input type="number" name="hg2" step="any" placeholder="max">
                     <td></td>
                     <td><input type="submit" name="btn_hg" value="Saring"></td>
                     <td></td>

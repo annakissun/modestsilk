@@ -436,6 +436,6 @@ echo _gettext("Options");
 
     public function getSourceContext()
     {
-        return new Source("", "database/designer/database_tables.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\database\\designer\\database_tables.twig");
+        return new Source("", "database/designer/database_tables.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\database\\designer\\database_tables.twig");
     }
 }

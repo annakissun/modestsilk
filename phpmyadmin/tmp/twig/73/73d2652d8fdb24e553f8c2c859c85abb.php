@@ -85,6 +85,6 @@ echo _gettext("Close");
 
     public function getSourceContext()
     {
-        return new Source("", "modals/index_dialog_modal.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\modals\\index_dialog_modal.twig");
+        return new Source("", "modals/index_dialog_modal.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\modals\\index_dialog_modal.twig");
     }
 }

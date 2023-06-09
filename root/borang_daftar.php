@@ -51,7 +51,8 @@
                 <tr>
                     <td></td>
                     <td>Katalaluan :</td>
-                    <td><input type="password" name="klaluan" required placeholder="5-8 aksara sahaja" pattern=".{5,8}" title="5-8 aksara sahaja">
+                    <td><input type="password" name="klaluan" required placeholder="5-8 aksara sahaja" 
+                    pattern=".{5,8}" title="5-8 aksara sahaja">
                         <!-- pattern ini untuk setkan had atas dan had bawah --> </td>
                     <td></td>
                 </tr>

@@ -132,6 +132,6 @@ class __TwigTemplate_d7b81de5e7d2ed528b64efcf6989a380 extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "table/page_with_secondary_tabs.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\table\\page_with_secondary_tabs.twig");
+        return new Source("", "table/page_with_secondary_tabs.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\table\\page_with_secondary_tabs.twig");
     }
 }

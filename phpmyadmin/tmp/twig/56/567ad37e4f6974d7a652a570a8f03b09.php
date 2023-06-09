@@ -1617,6 +1617,6 @@ echo _gettext("Cancel");
 
     public function getSourceContext()
     {
-        return new Source("", "database/designer/main.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\database\\designer\\main.twig");
+        return new Source("", "database/designer/main.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\database\\designer\\main.twig");
     }
 }

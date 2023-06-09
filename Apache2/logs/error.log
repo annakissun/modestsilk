@@ -1,31 +1,40 @@
-[Fri May 12 12:17:32.490931 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri May 12 12:17:32.490931 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri May 12 12:17:32.490931 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri May 12 12:17:32.500088 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 14664
-[Fri May 12 12:17:33.180214 2023] [mpm_winnt:notice] [pid 14664:tid 500] AH00354: Child: Starting 64 worker threads.
-[Fri May 12 12:23:43.624258 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 14664 exited with status 3221226356 -- Restarting.
-[Fri May 12 12:23:43.720688 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri May 12 12:23:43.721580 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri May 12 12:23:43.721580 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri May 12 12:23:43.728573 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 13900
-[Fri May 12 12:23:44.458149 2023] [mpm_winnt:notice] [pid 13900:tid 484] AH00354: Child: Starting 64 worker threads.
-[Fri May 12 12:23:49.379876 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 13900 exited with status 3221226356 -- Restarting.
-[Fri May 12 12:23:49.474215 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri May 12 12:23:49.474215 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri May 12 12:23:49.474215 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri May 12 12:23:49.482138 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 11024
-[Fri May 12 12:23:50.176272 2023] [mpm_winnt:notice] [pid 11024:tid 496] AH00354: Child: Starting 64 worker threads.
-[Fri May 12 12:23:51.934222 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 11024 exited with status 3221226356 -- Restarting.
-[Fri May 12 12:23:52.030947 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri May 12 12:23:52.030947 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri May 12 12:23:52.030947 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri May 12 12:23:52.039858 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 12348
-[Fri May 12 12:23:53.034111 2023] [mpm_winnt:notice] [pid 12348:tid 516] AH00354: Child: Starting 64 worker threads.
-[Fri May 12 12:23:57.681864 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00428: Parent: child process 12348 exited with status 3221226356 -- Restarting.
-[Fri May 12 12:23:57.775897 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri May 12 12:23:57.776857 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri May 12 12:23:57.776857 2023] [core:notice] [pid 15028:tid 492] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri May 12 12:23:57.786830 2023] [mpm_winnt:notice] [pid 15028:tid 492] AH00418: Parent: Created child process 5992
-[Fri May 12 12:23:58.351352 2023] [mpm_winnt:notice] [pid 5992:tid 472] AH00354: Child: Starting 64 worker threads.
-[Fri May 12 12:25:10.774736 2023] [php:warn] [pid 5992:tid 1272] [client ::1:65370] PHP Warning:  Undefined variable $conn in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php on line 53, referer: http://localhost/proses_login.php
-[Fri May 12 12:25:10.774736 2023] [php:error] [pid 5992:tid 1272] [client ::1:65370] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php:53\nStack trace:\n#0 C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php(53): mysqli_query(NULL, 'SELECT *\\r\\n     ...')\n#1 {main}\n  thrown in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\senarai_produkA.php on line 53, referer: http://localhost/proses_login.php
+[Fri Jun 09 11:18:16.103743 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Jun 09 11:18:16.103743 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Jun 09 11:18:16.103743 2023] [core:notice] [pid 16020:tid 484] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri Jun 09 11:18:16.113997 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00418: Parent: Created child process 19508
+[Fri Jun 09 11:18:16.724977 2023] [mpm_winnt:notice] [pid 19508:tid 520] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 09 11:18:54.510921 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00428: Parent: child process 19508 exited with status 3221226356 -- Restarting.
+[Fri Jun 09 11:18:54.604987 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Jun 09 11:18:54.604987 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Jun 09 11:18:54.604987 2023] [core:notice] [pid 16020:tid 484] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri Jun 09 11:18:54.618570 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00418: Parent: Created child process 14020
+[Fri Jun 09 11:18:55.343546 2023] [mpm_winnt:notice] [pid 14020:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 09 11:19:04.764274 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00428: Parent: child process 14020 exited with status 3221226356 -- Restarting.
+[Fri Jun 09 11:19:04.864089 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Jun 09 11:19:04.864089 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Jun 09 11:19:04.864089 2023] [core:notice] [pid 16020:tid 484] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri Jun 09 11:19:04.880578 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00418: Parent: Created child process 4768
+[Fri Jun 09 11:19:05.553445 2023] [mpm_winnt:notice] [pid 4768:tid 512] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 09 11:19:16.694909 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00428: Parent: child process 4768 exited with status 3221226356 -- Restarting.
+[Fri Jun 09 11:19:16.818543 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Jun 09 11:19:16.818543 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Jun 09 11:19:16.818543 2023] [core:notice] [pid 16020:tid 484] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri Jun 09 11:19:16.826731 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00418: Parent: Created child process 6216
+[Fri Jun 09 11:19:17.516060 2023] [mpm_winnt:notice] [pid 6216:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 09 11:19:52.858307 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00428: Parent: child process 6216 exited with status 3221226356 -- Restarting.
+[Fri Jun 09 11:19:52.943541 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Jun 09 11:19:52.943806 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Jun 09 11:19:52.943806 2023] [core:notice] [pid 16020:tid 484] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri Jun 09 11:19:52.945328 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00418: Parent: Created child process 16124
+[Fri Jun 09 11:19:53.594971 2023] [mpm_winnt:notice] [pid 16124:tid 488] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 09 11:21:51.331061 2023] [php:warn] [pid 16124:tid 1228] [client ::1:49779] PHP Warning:  Undefined array key "id" in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\session.php on line 9
+[Fri Jun 09 11:21:51.331061 2023] [php:warn] [pid 16124:tid 1228] [client ::1:49779] PHP Warning:  Undefined array key "kategori" in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\session.php on line 12
+[Fri Jun 09 11:21:51.332048 2023] [php:warn] [pid 16124:tid 1228] [client ::1:49779] PHP Warning:  Trying to access array offset on value of type null in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\session.php on line 25
+[Fri Jun 09 11:21:51.332831 2023] [php:warn] [pid 16124:tid 1228] [client ::1:49779] PHP Warning:  Trying to access array offset on value of type null in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\session.php on line 26
+[Fri Jun 09 14:00:37.665120 2023] [php:error] [pid 16124:tid 1272] [client ::1:53456] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'MCE001' for key 'PRIMARY' in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\proses_produk.php:38\nStack trace:\n#0 C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\proses_produk.php(38): mysqli_query(Object(mysqli), 'INSERT INTO baj...')\n#1 {main}\n  thrown in C:\\Users\\student\\Documents\\GitHub\\modestsilk\\root\\proses_produk.php on line 38, referer: http://localhost/borang_produk.php
+[Fri Jun 09 14:01:00.802139 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00428: Parent: child process 16124 exited with status 3221226356 -- Restarting.
+[Fri Jun 09 14:01:00.911875 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Fri Jun 09 14:01:00.911875 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Fri Jun 09 14:01:00.911875 2023] [core:notice] [pid 16020:tid 484] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
+[Fri Jun 09 14:01:00.922909 2023] [mpm_winnt:notice] [pid 16020:tid 484] AH00418: Parent: Created child process 6804
+[Fri Jun 09 14:01:01.678347 2023] [mpm_winnt:notice] [pid 6804:tid 504] AH00354: Child: Starting 64 worker threads.

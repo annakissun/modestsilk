@@ -75,8 +75,8 @@ include($navmenu);
             $query = "SELECT * FROM baju INNER JOIN jenama USING (kod_jenama) WHERE kod_jenama = '$_POST[jn]' ORDER BY kod_jenama";
         }
         //jika mengikut harga
-        else if (isset($_POST['btn__hg'])) {
-            $query = "SELECT * FROM baju INNER JOIN jenama USING (kod_jenama) WHERE harga = '$_POST[hg1]' AND '$_POST[hg2]' ORDER BY kod_jenama";
+        else if (isset($_POST['btn_hg'])) {
+            $query = "SELECT * FROM baju INNER JOIN jenama USING (kod_jenama) WHERE harga BETWEEN '$_POST[hg1]' AND '$_POST[hg2]' ORDER BY kod_jenama";
         }
         //jika pengguna tak saring produk, papar semua produk
         else {

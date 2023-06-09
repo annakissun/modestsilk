@@ -83,7 +83,7 @@ include("nav.php");
                             while ($row = mysqli_fetch_array($sql)) {
                             ?>
                                 <option value="<?php echo $row['kod_jenama']; ?>">
-                                    <?php echo $row['jenama']; ?>
+                                               <?php echo $row['jenama']; ?>
                                 </option>
                             <?php } ?>
                         </select></td>
