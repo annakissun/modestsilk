@@ -89,6 +89,6 @@ echo _gettext("Go");
 
     public function getSourceContext()
     {
-        return new Source("", "table/insert/get_head_and_foot_of_insert_row_table.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\table\\insert\\get_head_and_foot_of_insert_row_table.twig");
+        return new Source("", "table/insert/get_head_and_foot_of_insert_row_table.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\table\\insert\\get_head_and_foot_of_insert_row_table.twig");
     }
 }

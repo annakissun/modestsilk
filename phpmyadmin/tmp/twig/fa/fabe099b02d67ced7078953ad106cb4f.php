@@ -60,6 +60,6 @@ class __TwigTemplate_6ff80ce210d1bd0944b0ba7092532f1e extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "table/insert/get_html_for_insert_edit_form_header.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\table\\insert\\get_html_for_insert_edit_form_header.twig");
+        return new Source("", "table/insert/get_html_for_insert_edit_form_header.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\table\\insert\\get_html_for_insert_edit_form_header.twig");
     }
 }

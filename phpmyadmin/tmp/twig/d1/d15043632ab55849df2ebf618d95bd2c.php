@@ -177,6 +177,6 @@ echo _gettext("Close");
 
     public function getSourceContext()
     {
-        return new Source("", "table/insert/actions_panel.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\table\\insert\\actions_panel.twig");
+        return new Source("", "table/insert/actions_panel.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\table\\insert\\actions_panel.twig");
     }
 }
