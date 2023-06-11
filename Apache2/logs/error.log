@@ -1,59 +1,113 @@
-[Fri Jun 09 14:49:51.772183 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:49:51.772183 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:49:51.772183 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:49:51.781239 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 11396
-[Fri Jun 09 14:49:52.611630 2023] [mpm_winnt:notice] [pid 11396:tid 280] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:53:26.101021 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 11396 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:53:26.201295 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:53:26.201295 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:53:26.201295 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:53:26.212613 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 7692
-[Fri Jun 09 14:53:26.977993 2023] [mpm_winnt:notice] [pid 7692:tid 480] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:53:29.743728 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 7692 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:53:29.846321 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:53:29.846321 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:53:29.846321 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:53:29.856329 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 20844
-[Fri Jun 09 14:53:30.574613 2023] [mpm_winnt:notice] [pid 20844:tid 472] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:53:32.424332 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 20844 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:53:32.522751 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:53:32.522751 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:53:32.522751 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:53:32.530238 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 11740
-[Fri Jun 09 14:53:33.201767 2023] [mpm_winnt:notice] [pid 11740:tid 472] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:53:44.205545 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 11740 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:53:44.314451 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:53:44.314451 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:53:44.314451 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:53:44.325981 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 21376
-[Fri Jun 09 14:53:45.131564 2023] [mpm_winnt:notice] [pid 21376:tid 472] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:53:51.093062 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 21376 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:53:51.191585 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:53:51.191585 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:53:51.191585 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:53:51.194495 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 9848
-[Fri Jun 09 14:53:51.944293 2023] [mpm_winnt:notice] [pid 9848:tid 492] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:54:08.617048 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 9848 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:54:08.721373 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:54:08.721872 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:54:08.722448 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:54:08.733362 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 17364
-[Fri Jun 09 14:54:09.471449 2023] [mpm_winnt:notice] [pid 17364:tid 496] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:54:11.513565 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 17364 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:54:11.601235 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:54:11.601235 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:54:11.601235 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:54:11.613049 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 20576
-[Fri Jun 09 14:54:12.301263 2023] [mpm_winnt:notice] [pid 20576:tid 484] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:54:45.078902 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 20576 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:54:45.182625 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:54:45.182625 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:54:45.182625 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:54:45.191401 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 11196
-[Fri Jun 09 14:54:45.952569 2023] [mpm_winnt:notice] [pid 11196:tid 484] AH00354: Child: Starting 64 worker threads.
-[Fri Jun 09 14:54:59.866515 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00428: Parent: child process 11196 exited with status 3221226356 -- Restarting.
-[Fri Jun 09 14:54:59.956291 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
-[Fri Jun 09 14:54:59.956291 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
-[Fri Jun 09 14:54:59.956291 2023] [core:notice] [pid 6268:tid 476] AH00094: Command line: 'C:\\Users\\student\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/student/Documents/GitHub/modestsilk/Apache2'
-[Fri Jun 09 14:54:59.968695 2023] [mpm_winnt:notice] [pid 6268:tid 476] AH00418: Parent: Created child process 2868
-[Fri Jun 09 14:55:00.663540 2023] [mpm_winnt:notice] [pid 2868:tid 476] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:40:37.609327 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:40:37.609327 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:40:37.609327 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:40:37.614326 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 7940
+[Sun Jun 11 18:40:37.941160 2023] [mpm_winnt:notice] [pid 7940:tid 420] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:41:24.763341 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 7940 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:41:24.789923 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:41:24.789923 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:41:24.789923 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:41:24.792924 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 7104
+[Sun Jun 11 18:41:25.169894 2023] [mpm_winnt:notice] [pid 7104:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:41:39.562959 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 7104 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:41:39.585010 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:41:39.585010 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:41:39.585010 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:41:39.589594 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 10916
+[Sun Jun 11 18:41:39.957162 2023] [mpm_winnt:notice] [pid 10916:tid 412] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:41:46.265675 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 10916 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:41:46.288638 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:41:46.288638 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:41:46.288638 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:41:46.292631 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 12996
+[Sun Jun 11 18:41:46.757549 2023] [mpm_winnt:notice] [pid 12996:tid 412] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:43:46.455512 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 12996 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:43:46.476731 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:43:46.476731 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:43:46.476731 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:43:46.479731 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 7704
+[Sun Jun 11 18:43:46.789561 2023] [mpm_winnt:notice] [pid 7704:tid 412] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:44:35.374464 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 7704 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:44:35.395597 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:44:35.395597 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:44:35.395597 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:44:35.401598 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 14500
+[Sun Jun 11 18:44:35.717910 2023] [mpm_winnt:notice] [pid 14500:tid 412] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:44:46.649567 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 14500 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:44:46.669574 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:44:46.669574 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:44:46.669574 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:44:46.674567 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 8276
+[Sun Jun 11 18:44:47.005219 2023] [mpm_winnt:notice] [pid 8276:tid 440] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:44:54.962329 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 8276 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:44:54.983924 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:44:54.983924 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:44:54.983924 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:44:54.989922 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 8636
+[Sun Jun 11 18:44:55.314038 2023] [mpm_winnt:notice] [pid 8636:tid 428] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:45:11.752247 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 8636 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:45:11.776226 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:45:11.776226 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:45:11.776226 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:45:11.783227 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 5020
+[Sun Jun 11 18:45:12.118880 2023] [mpm_winnt:notice] [pid 5020:tid 436] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:45:58.418358 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 5020 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:45:58.442520 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:45:58.442520 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:45:58.442520 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:45:58.446520 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 16816
+[Sun Jun 11 18:45:58.762698 2023] [mpm_winnt:notice] [pid 16816:tid 428] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:46:25.953077 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 16816 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:46:25.973080 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:46:25.973080 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:46:25.973080 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:46:25.978079 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 15340
+[Sun Jun 11 18:46:26.292132 2023] [mpm_winnt:notice] [pid 15340:tid 428] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:46:29.254839 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 15340 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:46:29.275840 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:46:29.275840 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:46:29.275840 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:46:29.279839 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 8284
+[Sun Jun 11 18:46:29.634154 2023] [mpm_winnt:notice] [pid 8284:tid 456] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:50:05.927128 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 8284 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:50:05.947760 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:50:05.947760 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:50:05.947760 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:50:05.950761 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 8324
+[Sun Jun 11 18:50:06.270045 2023] [mpm_winnt:notice] [pid 8324:tid 428] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:50:08.942099 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 8324 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:50:08.971106 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:50:08.971106 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:50:08.971106 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:50:08.983099 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 18612
+[Sun Jun 11 18:50:09.300035 2023] [mpm_winnt:notice] [pid 18612:tid 412] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 18:54:29.374460 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 18612 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 18:54:29.396285 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 18:54:29.396285 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 18:54:29.396285 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 18:54:29.398292 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 4288
+[Sun Jun 11 18:54:29.838142 2023] [mpm_winnt:notice] [pid 4288:tid 412] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 20:54:26.729956 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 4288 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 20:54:26.758626 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 20:54:26.758626 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 20:54:26.758626 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 20:54:26.761644 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 21508
+[Sun Jun 11 20:54:27.083195 2023] [mpm_winnt:notice] [pid 21508:tid 436] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 20:54:30.167573 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 21508 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 20:54:30.188617 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 20:54:30.188617 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 20:54:30.188617 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 20:54:30.192621 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 12652
+[Sun Jun 11 20:54:30.511584 2023] [mpm_winnt:notice] [pid 12652:tid 428] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 20:54:33.483539 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 12652 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 20:54:33.503605 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 20:54:33.503605 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 20:54:33.503605 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 20:54:33.507595 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 13040
+[Sun Jun 11 20:54:33.826327 2023] [mpm_winnt:notice] [pid 13040:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 11 20:54:41.513350 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00428: Parent: child process 13040 exited with status 3221226356 -- Restarting.
+[Sun Jun 11 20:54:41.534434 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00455: Apache/2.4.54 (Win32) PHP/8.1.7 configured -- resuming normal operations
+[Sun Jun 11 20:54:41.534434 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:31:11
+[Sun Jun 11 20:54:41.534434 2023] [core:notice] [pid 12752:tid 440] AH00094: Command line: 'C:\\Users\\annak\\OneDrive\\Documents\\GitHub\\modestsilk/apache2/bin/httpd_usbwv8.exe -d C:/Users/annak/OneDrive/Documents/GitHub/modestsilk/Apache2'
+[Sun Jun 11 20:54:41.537478 2023] [mpm_winnt:notice] [pid 12752:tid 440] AH00418: Parent: Created child process 19580
+[Sun Jun 11 20:54:41.854924 2023] [mpm_winnt:notice] [pid 19580:tid 412] AH00354: Child: Starting 64 worker threads.

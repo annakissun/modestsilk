@@ -17,7 +17,7 @@
         </tr>
 
         <p>
-        <h1> Promosi Akhir Tahun! </h1>
+        <h2> Promosi Akhir Tahun! </h2>
 
         </p>
 

@@ -11,7 +11,6 @@ include("nav.php");
             border: 3px solid #bd5e7e;
             border-collapse: collapse;
             margin: auto;
-            font-weight: bold;
             background-color: #AC8B8A;
         }
 
@@ -57,7 +56,7 @@ include("nav.php");
 <body>
     <div id="mainbody">
         <form action="proses_produk.php" method="POST" enctype="multipart/form-data">
-            <div id="tajuk">Tambah Baju</div>
+            <div id="tajuk">Tambah Baju Raya</div>
             <p>
             <table cellpading='5px'>
                 <tr>

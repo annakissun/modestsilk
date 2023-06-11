@@ -42,7 +42,7 @@ include("nav.php");
 <body>
     <div id="mainbody">
         <div id="tajuk">
-            <p>Senarai Baju</p>
+            <p>Senarai Baju Raya</p>
         </div>
         <!-- Senarai Produk -->
         <?php
