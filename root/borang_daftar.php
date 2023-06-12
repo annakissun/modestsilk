@@ -45,7 +45,7 @@
                 <tr>
                     <td></td>
                     <td>Login ID :</td>
-                    <td><input type="text" name="login" required></td>
+                    <td><input type="text" name="logid" required></td>
                     <td></td>
                 </tr>
                 <tr>

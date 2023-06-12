@@ -485,6 +485,6 @@ echo _gettext("Close");
 
     public function getSourceContext()
     {
-        return new Source("", "sql/query.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\sql\\query.twig");
+        return new Source("", "sql/query.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\sql\\query.twig");
     }
 }

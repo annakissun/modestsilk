@@ -6,7 +6,7 @@ session_start();
 include('db_conn.php');
 
 //Dapatkan data dari borang login
-$login = $_POST['login'];
+$login = $_POST['logid'];
 $pwd = md5($_POST['klaluan']); //encrypt katalaluan
 $kat = $_POST['kat'];
 

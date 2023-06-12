@@ -115,6 +115,6 @@ class __TwigTemplate_4dcdabb4ad259928b1948b650d835f9a extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "columns_definitions/column_attribute.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\columns_definitions\\column_attribute.twig");
+        return new Source("", "columns_definitions/column_attribute.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\columns_definitions\\column_attribute.twig");
     }
 }

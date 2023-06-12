@@ -11,7 +11,6 @@ include("nav.php");
             border: 3px solid #bd5e7e;
             border-collapse: collapse;
             margin: auto;
-            font-weight: bold;
             background-color: #AC8B8A;
         }
 

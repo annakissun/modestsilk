@@ -486,6 +486,6 @@ echo _gettext("Preview SQL");
 
     public function getSourceContext()
     {
-        return new Source("", "table/index_form.twig", "C:\\Users\\DELL\\Documents\\GitHub\\Testing\\phpmyadmin\\templates\\table\\index_form.twig");
+        return new Source("", "table/index_form.twig", "C:\\Users\\student\\Documents\\GitHub\\modestsilk\\phpmyadmin\\templates\\table\\index_form.twig");
     }
 }

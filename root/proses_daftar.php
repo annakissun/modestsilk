@@ -5,7 +5,7 @@ include ('db_conn.php');
 
 /* Dapatkan data dari semua medan/textfield 
 pada borang_daftar.php */
-$login = $_POST['login'];
+$login = $_POST['logid'];
 $pwd = md5($_POST['klaluan']); //encrypt katalaluan
 $nama = $_POST['nama'];
 
