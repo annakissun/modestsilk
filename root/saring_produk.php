@@ -3,7 +3,7 @@ include("db_conn.php");
 include("header.php");
 
 //kat==0 (pembeli tidak login)
-//ket==1 (pemebli login)
+//kat==1 (pembeli login)
 if ($_GET['kat'] == 0) {
     $navmenu = "topnav_right.php";
     $link = "kat=0";
@@ -99,7 +99,7 @@ include($navmenu);
                 <tr>
                     <td></td>
                     <td>Harga:</td>
-                    <td><input type="number" name="hg1" step="any" placeholder="min"> 
+                    <td><input type="number" name="hg1" step="any" placeholder="min"> -
                     <td><input type="number" name="hg2" step="any" placeholder="max">
                     <td></td>
                     <td><input type="submit" name="btn_hg" value="Saring"></td>

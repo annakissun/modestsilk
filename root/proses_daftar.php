@@ -18,7 +18,7 @@ $nama = $_POST['nama'];
  if (mysqli_num_rows($result) > 0)
  {
     echo '<script>
-    alert("Login ID adnda telah didaftarkan!!");
+    alert("Login ID anda telah didaftarkan!");
     window.location.href="borang_daftar.php";</script>';
  } else {
     //jika login belum wujud, simpan data pembeli dalam DB
@@ -29,7 +29,7 @@ $nama = $_POST['nama'];
     if (mysqli_query($conn, $mysql)) {
         //papar js popup mesej jika pembeli baharu berjaya daftar
         echo '<script>
-        alert ("Berjaya daftar pembeli baharu!!!");
+        alert ("Berjaya daftar pembeli baharu!");
         window.location.href="borang_login.php";</script>';
         //selepas berjaya daftar, kembali ke login page
     } else {
